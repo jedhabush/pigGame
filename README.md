@@ -5,4 +5,4 @@ When a player presses hold you add the current score to the toal score and the g
 The goal is to reach 50 points and avoid rolling one
 
 Click the link for the live Demo Version 
-https://piggame-jed.netlify.app/ 
+https://pig-game-jed.netlify.app/
